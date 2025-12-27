@@ -1,2 +1,2 @@
 # To-Do-App
-To-Do App yaptım Swift ile
+Swift ve [SwiftUI/UIKit] ile geliştirilen bu To-Do uygulaması, günlük görevlerinizi kolayca organize etmenizi sağlar. Özellikleri arasında görev ekleme, silme, düzenleme ve tamamlandı olarak işaretleme bulunur. Veriler [CoreData/UserDefaults] kullanılarak cihazda saklanır. Modern arayüzü ve kullanıcı dostu yapısıyla temel iOS geliştirme prensiplerini yansıtan açık kaynaklı bir projedir.
